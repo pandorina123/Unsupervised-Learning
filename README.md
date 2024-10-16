@@ -1,4 +1,4 @@
-## Clustering - Unsupervised learning
+### Clustering - Unsupervised learning
 
 This project compares and discusses the clustering of the Height and Weight features to segregate male and female respondents. It experiments with two popular clustering techniques: **k-means** and **agglomerative clustering** with three different linkages.
 
